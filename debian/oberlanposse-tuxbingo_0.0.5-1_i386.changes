@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 31 Mar 2015 12:00:00 +0000
+Source: oberlanposse-tuxbingo
+Binary: oberlanposse-tuxbingo
+Architecture: source all
+Version: 0.0.5-1
+Distribution: unstable
+Urgency: low
+Maintainer: Oberlan Posse <oberlanposse@oberlanposse.com.ar>
+Changed-By: Oberlan Posse <oberlanposse@oberlanposse.com.ar>
+Description: 
+ oberlanposse-tuxbingo - Software para llevar el control de los números de un bingo
+Changes: 
+ oberlanposse-tuxbingo (0.0.5-1) unstable; urgency=low
+ .
+   * Agredado de ayuda de uso del software.
+Checksums-Sha1: 
+ d5f8d4ad99f78af99a1f41f0ae2e5b48c5071302 1116 oberlanposse-tuxbingo_0.0.5-1.dsc
+ 032eca897f75ee215a1fdef2d70fcedf04537def 1195 oberlanposse-tuxbingo_0.0.5-1.diff.gz
+ 8289a5e2be9636b434f5987125c5a2664635c2be 14004 oberlanposse-tuxbingo_0.0.5-1_all.deb
+Checksums-Sha256: 
+ 0216bebfcb59ca388431d5d46929079340b3a146e4186f6012d71dc3e774fa27 1116 oberlanposse-tuxbingo_0.0.5-1.dsc
+ 0835d56db7b1c2d9d86f6fa1c897dd62963298b59815005788fb066e0f92ead7 1195 oberlanposse-tuxbingo_0.0.5-1.diff.gz
+ d22bdeb5742b35356af2c1a5fd57f17e20dc4196b2209383f8d0c88929307858 14004 oberlanposse-tuxbingo_0.0.5-1_all.deb
+Files: 
+ ba64b980776ff63da8ebf930a9adbff5 1116 contrib/graphics optional oberlanposse-tuxbingo_0.0.5-1.dsc
+ 7ad5b2b7cdab2f7f2536fa0d18a87261 1195 contrib/graphics optional oberlanposse-tuxbingo_0.0.5-1.diff.gz
+ 645b8a44d080e75c8a719955e17314d0 14004 contrib/graphics optional oberlanposse-tuxbingo_0.0.5-1_all.deb
